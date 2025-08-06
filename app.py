@@ -5,7 +5,7 @@ import re
 import language_tool_python
 
 st.set_page_config(page_title="WindProof", layout="wide")
-st.title("\ud83c\udf2c\ufe0f WindProof - Full Proofreading Suite")
+st.title("🌬️ WindProof - Full Proofreading Suite")
 
 # Extract text from PDF
 def extract_text_from_pdf(uploaded_file):
@@ -120,3 +120,4 @@ if pdf1 and pdf2:
             st.markdown(f"- \u274c **{match.message}**")
             if match.replacements:
                 st.markdown(f"  \u21aa Suggested: `{', '.join(match.replacements)}`")
+
