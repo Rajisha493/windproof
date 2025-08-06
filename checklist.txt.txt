@@ -1,0 +1,4 @@
+"Introduction" section should be present
+"Conclusion" section should be present
+Use of the term "efficiency"
+Mention of "ISO 14001"

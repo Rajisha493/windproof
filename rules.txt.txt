@@ -1,0 +1,6 @@
+No use of passive voice
+Sentence length should not exceed 25 words
+No use of the word "ensure"
+No use of the phrase "in order to"
+No use of the word "very"
+No use of the word "obviously"
